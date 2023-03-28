@@ -10,3 +10,6 @@
   * [Day3 - Django 템플릿](Week_1/Django_0322.md)
   * [Day4 - Django URLs](Week_1/Django_0323.md)
   * [Day5 - Django Model](Week_1/Django_0324.md)
+
+* Wekk2
+  * [Day6 - Django Model](Week_2/Django_0328.md)
