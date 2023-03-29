@@ -1,4 +1,4 @@
-# Django ORM & view
+# Django ORM & View
 
 <br>
 

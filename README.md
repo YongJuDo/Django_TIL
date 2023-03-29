@@ -13,3 +13,4 @@
 
 * Wekk2
   * [Day6 - Django Model](Week_2/Django_0328.md)
+  * [Day7 - Django ORM & view](Week_2/Django_0329.md)
