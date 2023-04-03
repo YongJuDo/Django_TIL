@@ -17,4 +17,6 @@
   * [Day8 - Django ORM & view - 2](Week_2/Django_0330.md)
 
 * Week3
-  * [Day9 - Django Form](Week_3/Django_0403-1.md)
+  * Day9 - Django Form & Django Handling http requests
+    * [Django Form](Week_3/Django_0403-1.md)
+    * [Django Handling http requests](Week_3/Django_0403-2.md)
