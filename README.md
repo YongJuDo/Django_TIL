@@ -22,3 +22,4 @@
     * [Django Handling http requests](Week_3/Django_0403-2.md)
   * Day10 - Django Cookie and Session & Authentication System
     * [Django Cookie and Session](Week_3/Django_0404-1.md)
+    * [Django Authentication System](Week_3/Django_0404-2.md)
