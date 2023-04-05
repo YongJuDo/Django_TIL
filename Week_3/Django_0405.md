@@ -301,7 +301,7 @@
     def update(request, article_pk):
       pass
     ```
-    - ```python
+  - ```python
     # accounts/views.py
     from django.contrib.auth.decorators import login_required
 
