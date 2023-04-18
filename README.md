@@ -34,4 +34,7 @@
   * [Day15 - Django Many to one relationships - 2](Week_4/Django_0412.md)
 
 * Week5
-  * [Day16 - Django Static files](Week_5/Django_0417.md)
+  * [Day16 - Django Many to many relationships - 1](Week_5/Django_0417.md)
+  * Day9 - Django Form & Handling http requests
+    * [Day17 - Django Many to many relationships - 2](Week_5/Django_0418-1.md)
+    * [Day18 - Django Fixtures ](Week_5/Django_0418-2.md)
