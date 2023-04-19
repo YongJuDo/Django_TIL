@@ -35,6 +35,8 @@
 
 * Week5
   * [Day16 - Django Many to many relationships - 1](Week_5/Django_0417.md)
-  * Day9 - Django Form & Handling http requests
-    * [Day17 - Django Many to many relationships - 2](Week_5/Django_0418-1.md)
-    * [Day18 - Django Fixtures ](Week_5/Django_0418-2.md)
+  * Day17 - Django Many to many relationships - 2 & Fixtures
+    * [Django Many to many relationships - 2](Week_5/Django_0418-1.md)
+    * [Django Fixtures ](Week_5/Django_0418-2.md)
+  * Day18 - Django Improve query & django with Ajax
+    * [Django Improve query](Week_5/Django_0419-1.md)
