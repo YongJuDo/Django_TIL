@@ -1,4 +1,4 @@
-# Django with Ajax
+# Django rest framework
 
 <br>
 
