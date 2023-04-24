@@ -41,3 +41,6 @@
   * Day18 - Django Improve query & Django with Ajax
     * [Django Improve query](Week_5/Django_0419-1.md)
     * [Django with Ajax](Week_5/Django_0419-2.md)
+
+* Week6
+  * [Day19 - Django rest framework - 1](Week_5/Django_0424.md)
