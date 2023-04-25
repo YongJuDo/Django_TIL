@@ -43,4 +43,5 @@
     * [Django with Ajax](Week_5/Django_0419-2.md)
 
 * Week6
-  * [Day19 - Django rest framework](Week_5/Django_0424.md)
+  * [Day19 - Django rest framework - 1](Week_5/Django_0424.md)
+  * [Day20 - Django rest framework - 2](Week_5/Django_0424.md)
